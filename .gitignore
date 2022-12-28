@@ -1,0 +1,20 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Code
+.vs
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
